@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection – Simplified Version
+# Credit Card Fraud Detection
 
 ## Description
 
